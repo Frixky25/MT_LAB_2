@@ -1,0 +1,76 @@
+html{ 
+    background-color: #FCECDD;
+    font-family: cursive;
+    background-image: url("");
+    background-size: contain;
+}
+
+h1{ 
+    color: #4B2E2B;
+    font-size: 70px;
+}
+
+h2{
+    font-weight: bold;
+    text-decoration: underline;
+    color: #A03A13;
+}
+
+P{
+    font-family: serif;
+}
+
+img{
+    border-style: ridge;
+}
+
+.cen {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: left;
+}
+
+
+
+
+
+.Top {
+    text-align: center;
+    font-weight: bold;
+}
+.Down{
+    background-color: #4B2E2B;
+    color: #FCECDD;
+}
+
+.BGI { 
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/c5/Roasted_coffee_beans.jpg");
+    background-size: cover;
+    text-align: center;
+    font-weight: bold;
+    font-size:xx-large;
+    color: #f8c577;
+    font-size: 60px;
+}
+.Tbrown {
+    background-color: #4B2E2B;
+    color: rgb(255, 255, 255);;
+}
+.T1 {
+    background-color: #C08552;
+    color: rgb(255, 255, 255);;
+}
+.T2 {
+    background-color: #8C5A3C;
+    color: rgb(255, 255, 255);;
+}
+.center {
+    text-align: center;
+}
+.form {
+    background-color: #f8c577;
+    display: block;
+    margin-right: 1200px;
+    color: black;
+    border: black;
+}
